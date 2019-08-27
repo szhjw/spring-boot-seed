@@ -8,6 +8,10 @@
 -->
 <Configuration status="INFO" monitorInterval="30">
 
+
+
+
+
     <!-- 参数配置 -->
     <Properties>
         <!-- 配置日志文件输出目录 -->
